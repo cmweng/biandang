@@ -112,7 +112,7 @@
 
 </section>
   <div class="container">
-    <div aria-live="polite" aria-atomic="true" style="position: relative; min-height: 200px;min-width: 400px;"><div class="toast" style="position: fixed; top:20px; right:10px;" data-autohide="true" data-delay="6000"><div class="toast-header"><svg class="rounded mr-2" width="20" height="20" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect fill="red" width="100%" height="100%" / id="rect"></svg><strong class="mr-auto">取消訂餐</strong><small></small><button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close"><span aria-hidden="false">&times;</span></button></div><div class="toast-body" >取消訂餐成功!!<br>如有需要，請重新訂餐!!</div></div></div>
+    <div aria-live="polite" aria-atomic="true" style="position: relative; min-height: 200px;min-width: 400px;"><div class="toast" style="position: fixed; top:50px; right:10px;" data-autohide="true" data-delay="6000"><div class="toast-header"><svg class="rounded mr-2" width="20" height="20" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect fill="red" width="100%" height="100%" / id="rect"></svg><strong class="mr-auto">取消訂餐</strong><small></small><button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close"><span aria-hidden="false">&times;</span></button></div><div class="toast-body" >取消訂餐成功!!<br>如有需要，請重新訂餐!!</div></div></div>
   </div>
 
      

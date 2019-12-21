@@ -60,7 +60,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent-333">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
+        <li class="nav-item">
           <a class="nav-link" href="index.php">Home
             <span class="sr-only">(current)</span>
           </a>
@@ -70,7 +70,7 @@
             aria-haspopup="true" aria-expanded="false">店家資料維護
           </a>
           <div class="dropdown-menu dropdown-default" aria-labelledby="navbarDropdownMenuLink-333">
-            <a class="dropdown-item" href="addstore.php">新增店家資料</a>
+            <a class="dropdown-item active" href="addstore.php">新增店家資料</a>
             <a class="dropdown-item" href="edit_store.php">修改、刪除店家</a>
           </div>
         </li>
